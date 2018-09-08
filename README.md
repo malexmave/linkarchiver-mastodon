@@ -8,3 +8,5 @@ If you want the bot to follow you, simply follow it, and it will follow back. Yo
 The code is pretty bare-bones right now and lacks some of the more advanced features the original bot had. It is also only using the streaming API right now, so any tweets sent while the bot isn't online will not be archived. It goes without saying that you should not depend on this bot for anything serious, right?
 
 The code is licensed AGPL.
+
+If you want to run your own version, you'll need to get a Client ID, Client Secret and an access token. See [this tutorial](https://gist.github.com/aparrish/661fca5ce7b4882a8c6823db12d42d26) on how to do this.
