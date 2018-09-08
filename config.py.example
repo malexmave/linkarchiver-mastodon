@@ -1,0 +1,5 @@
+CLIENT_ID=''  # Add your client ID
+CLIENT_SECRET=''  # Add your client secret
+USER_NAME=''  # add your user name
+ACCESS_TOKEN=''  # Add your access token
+BASE_URL='https://botsin.space/'  # Base URL of mastodon instance. botsin.space is a bot-friendly instance.
